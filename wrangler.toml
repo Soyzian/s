@@ -1,0 +1,5 @@
+name = "filtro-de-email-soyss"
+main = "src/index.js"
+compatibility_date = "2026-07-11"
+[observability]
+enabled = true
